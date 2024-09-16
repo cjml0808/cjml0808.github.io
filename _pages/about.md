@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a phd student at the [College of Science, Huazhong Agricultural University](https://coi.hzau.edu.cn/)(2022-). 
+I am a PhD student at the [College of Science, Huazhong Agricultural University](https://coi.hzau.edu.cn/)(2022-). 
 
 Research Interests
 ======
