@@ -11,3 +11,4 @@ I am a PhD student at the [College of Informatics, Huazhong Agricultural Univers
 
 Research Interests
 ======
+My research interests lie in the general area of machine learning, particularly in large-scale machine learning, statistical machine learning theory, etc.
