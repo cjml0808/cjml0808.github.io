@@ -11,9 +11,3 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Research Interests
 ======
-
-Getting started
-======
-1. as
-
-2. as
