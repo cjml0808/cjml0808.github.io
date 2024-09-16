@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [College of Science, Huazhong Agricultural University](https://coi.hzau.edu.cn/)(2022-), advised by Professor [Hong Chen](https://chenhongml.github.io/). 
+I am a PhD student at the [College of Informatics, Huazhong Agricultural University](https://coi.hzau.edu.cn/)(2022-), advised by Professor [Hong Chen](https://chenhongml.github.io/). I did my 
 
 Research Interests
 ======
