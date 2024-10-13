@@ -27,6 +27,14 @@ Conferences
 - Fine-Grained Theoretical Analysis of Federated Zeroth-Order Optimization [Paper](https://papers.nips.cc/paper_files/paper/2023/hash/aaa973f65b98c96e5f850d706464a3c4-Abstract-Conference.html)
 <br>**Jun Chen**, Hong Chen*, Bin Gu, Hao Deng*. NeurIPS, 2023.
 
+- Stability-based Generalization Analysis for Mixtures of Pointwise and Pairwise Learning [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26205)
+<br>Jiahuan Wang, **Jun Chen**, Hong Chen*, Bin Gu, Weifu Li, Xin Tang. AAAI, 2023.
+
+- On the Stability and Generalization of Triplet Learning [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25859)
+<br>**Jun Chen**, Hong Chen*, Xue Jiang, Bin Gu, Weifu Li, Tieliang Gong, Feng Zheng. AAAI, 2023.
+
+Journals
+-
 - 
 
 - RU-net: A Residual U-net for Automatic Interplanetary Coronal Mass Ejection Detection [Paper](https://doi.org/10.3847/1538-4365/ac4587)
