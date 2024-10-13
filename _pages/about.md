@@ -13,7 +13,7 @@ Research Interests
 ======
 My research interests lie in the theory and application of machine learning, particularly in statistical machine learning theory, unsupervised learning, federated learning, and their applications in agriculture and space physics. If you want to have a chat, please always feel free to contact me through Email!
 
-News 🎊🎊
+🎊 News 🎊
 ======
 My paper "How Does Black-Box Impact the Learning Guarantee of Stochastic Compositional Optimization?" was accepted as a poster of NeurIPS 2024.
 
