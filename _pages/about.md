@@ -11,7 +11,7 @@ I am a PhD student at the [College of Informatics, Huazhong Agricultural Univers
 
 Research Interests
 ======
-My research interests lie in the theory and application of machine learning, particularly in statistical machine learning theory, unsupervised learning, federated learning, and their applications in agriculture and space physics.
+My research interests lie in the theory and application of machine learning, particularly in statistical machine learning theory, unsupervised learning, federated learning, and their applications in agriculture and space physics. If you want to have a chat, please always feel free to contact me through Email!
 
 Publications
 ======
