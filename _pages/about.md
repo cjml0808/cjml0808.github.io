@@ -20,5 +20,5 @@ One of my papers was accepted as a poster of NeurIPS 2024.
 Publications
 ======
 - RU-net: A Residual U-net for Automatic Interplanetary Coronal Mass Ejection Detection [paper](https://doi.org/10.3847/1538-4365/ac4587)
-<br>**Jun Chen**, Hao Deng*, Shuxin Li, Weifu Li, Hong Chen*, Yanhong Chen, Bingxian Luo. The Astrophysical Journal Supplement Series, 2022.
+<br>**Jun Chen**, Hao Deng*, Shuxin Li, Weifu Li, Hong Chen*, Yanhong Chen, Bingxian Luo. *The Astrophysical Journal Supplement Series*, 2022.
 - 
