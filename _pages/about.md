@@ -17,11 +17,11 @@ News 🎉🎉
 ======
 My paper "How Does Black-Box Impact the Learning Guarantee of Stochastic Compositional Optimization?" was accepted as a poster of NeurIPS 2024.
 
-Publications
+Publications :
 ======
 Conferences
 -
-- How Does Black-Box Impact the Learning Guarantee of Stochastic Compositional Optimization? [Paper](https://neurips.cc/virtual/2024/poster/96688)
+- How Does Black-Box Impact the Learning Guarantee of Stochastic Compositional Optimization? 📎[Paper](https://neurips.cc/virtual/2024/poster/96688)
 <br>**Jun Chen**, Hong Chen*, Bin Gu. NeurIPS, 2024.
 
 - Fine-Grained Theoretical Analysis of Federated Zeroth-Order Optimization [Paper](https://papers.nips.cc/paper_files/paper/2023/hash/aaa973f65b98c96e5f850d706464a3c4-Abstract-Conference.html)
