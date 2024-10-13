@@ -44,5 +44,8 @@ Journals
 - Two-stage Hierarchical Framework for Solar Flare Prediction [Paper](https://iopscience.iop.org/article/10.3847/1538-4365/acebbe/meta)
 <br>Hao Deng, Yuting Zhong, Hong Chen*, **Jun Chen**, Jingjing Wang, Yanhong Chen, Bingxian Luo. *The Astrophysical Journal Supplement Series*, 2023.
 
+- Two-Stage Solar Flare Forecasting Based on Convolutional Neural Networks [Paper](https://spj.science.org/doi/10.34133/2022/9761567)
+<br>**Jun Chen**, Weifu Li, Shuxin Li, Hong Chen*, Xuebin Zhao, Jiangtao Peng, Yanhong Chen, Hao Deng. *Space: Science & Technology*, 2022.
+
 - RU-net: A Residual U-net for Automatic Interplanetary Coronal Mass Ejection Detection [Paper](https://doi.org/10.3847/1538-4365/ac4587)
 <br>**Jun Chen**, Hao Deng*, Shuxin Li, Weifu Li, Hong Chen*, Yanhong Chen, Bingxian Luo. *The Astrophysical Journal Supplement Series*, 2022.
