@@ -1,9 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "RU-net: A Residual U-net for Automatic Interplanetary Coronal Mass Ejection Detection"
 collection: publications
 category: manuscript
-permalink: /publication/2022-3-journal-1.md
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: 'https://doi.org/10.3847/1538-4365/ac4587'
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
