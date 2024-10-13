@@ -27,7 +27,7 @@ Conferences
 - Fine-Grained Theoretical Analysis of Federated Zeroth-Order Optimization [Paper](https://papers.nips.cc/paper_files/paper/2023/hash/aaa973f65b98c96e5f850d706464a3c4-Abstract-Conference.html)
 <br>**Jun Chen**, Hong Chen*, Bin Gu, Hao Deng*. NeurIPS, 2023.
 
-- Stability-based Generalization Analysis for Mixtures of Pointwise and Pairwise Learning [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26205)
+- Stability-Based Generalization Analysis for Mixtures of Pointwise and Pairwise Learning [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26205)
 <br>Jiahuan Wang, **Jun Chen**, Hong Chen*, Bin Gu, Weifu Li, Xin Tang. AAAI, 2023.
 
 - On the Stability and Generalization of Triplet Learning [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25859)
@@ -35,8 +35,11 @@ Conferences
 
 Journals
 -
-- Predicting and Visualizing Citrus Color Transformation Using a Deep Mask-Guided Generative Network [Paper](https://spj.science.org/doi/10.34133/plantphenomics.0057)
-<br>Zehan Bao, Weifu Li, **Jun Chen**, Hong Chen, Vijay John, Chi Xiao, Yaohui Chen*. *Plant Phenomics*, 2023.
+- Predicting and Visualizing Citrus Color Transformation Using A Deep Mask-Guided Generative Network [Paper](https://spj.science.org/doi/10.34133/plantphenomics.0057)
+<br>Zehan Bao, Weifu Li, **Jun Chen**, Hong Chen, Vijay John, Chi Xiao*, Yaohui Chen*. *Plant Phenomics*, 2023.
+
+- Improving Human Intuition for Vision-Based Freshness Prediction of Citrus Reticulata Blanco Using Machine Learning [Paper](https://www.sciencedirect.com/science/article/pii/S0304423823004715)
+<br>Yonghua Yu, Hao Deng, **Jun Chen**, Yunjiang Cheng, Rangwei Xu, Shanjun Li*, Yaohui Chen*. *Scientia Horticulturae*, 2023.
 
 - RU-net: A Residual U-net for Automatic Interplanetary Coronal Mass Ejection Detection [Paper](https://doi.org/10.3847/1538-4365/ac4587)
 <br>**Jun Chen**, Hao Deng*, Shuxin Li, Weifu Li, Hong Chen*, Yanhong Chen, Bingxian Luo. *The Astrophysical Journal Supplement Series*, 2022.
