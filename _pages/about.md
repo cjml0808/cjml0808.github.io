@@ -35,7 +35,8 @@ Conferences
 
 Journals
 -
-- 
+- Predicting and Visualizing Citrus Color Transformation Using a Deep Mask-Guided Generative Network [Paper](https://spj.science.org/doi/10.34133/plantphenomics.0057)
+<br>Zehan Bao, Weifu Li, **Jun Chen**, Hong Chen, Vijay John, Chi Xiao, Yaohui Chen*. *Plant Phenomics*, 2023.
 
 - RU-net: A Residual U-net for Automatic Interplanetary Coronal Mass Ejection Detection [Paper](https://doi.org/10.3847/1538-4365/ac4587)
 <br>**Jun Chen**, Hao Deng*, Shuxin Li, Weifu Li, Hong Chen*, Yanhong Chen, Bingxian Luo. *The Astrophysical Journal Supplement Series*, 2022.
