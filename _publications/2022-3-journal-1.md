@@ -1,8 +1,8 @@
 ---
 title: "Paper Title Number 1"
 collection: publications
-category: conferences
-permalink: /publication/2009-10-01-paper-title-number-1
+category: manuscript
+permalink: /publication/2022-3-journal-1.md
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
