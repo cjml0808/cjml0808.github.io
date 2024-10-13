@@ -15,7 +15,7 @@ My research interests lie in the theory and application of machine learning, par
 
 News
 ======
-One of my papers was accepted as a poster of NeurIPS 2024.
+My paper "How Does Black-Box Impact the Learning Guarantee of Stochastic Compositional Optimization?" was accepted as a poster of NeurIPS 2024.
 
 Publications
 ======
