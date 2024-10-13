@@ -19,9 +19,15 @@ One of my papers was accepted as a poster of NeurIPS 2024.
 
 Publications
 ======
+Conferences
+-
 - How Does Black-Box Impact the Learning Guarantee of Stochastic Compositional Optimization? [Paper](https://neurips.cc/virtual/2024/poster/96688)
 <br>**Jun Chen**, Hong Chen*, Bin Gu. NeurIPS, 2024.
+
 - Fine-Grained Theoretical Analysis of Federated Zeroth-Order Optimization [Paper](https://papers.nips.cc/paper_files/paper/2023/hash/aaa973f65b98c96e5f850d706464a3c4-Abstract-Conference.html)
 <br>**Jun Chen**, Hong Chen*, Bin Gu, Hao Deng*. NeurIPS, 2023.
+
+- 
+
 - RU-net: A Residual U-net for Automatic Interplanetary Coronal Mass Ejection Detection [Paper](https://doi.org/10.3847/1538-4365/ac4587)
 <br>**Jun Chen**, Hao Deng*, Shuxin Li, Weifu Li, Hong Chen*, Yanhong Chen, Bingxian Luo. *The Astrophysical Journal Supplement Series*, 2022.
