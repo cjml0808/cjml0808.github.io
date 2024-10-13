@@ -20,6 +20,7 @@ One of my papers was accepted as a poster of NeurIPS 2024.
 Publications
 ======
 - RU-net: A Residual U-net for Automatic Interplanetary Coronal Mass Ejection Detection [paper](https://doi.org/10.3847/1538-4365/ac4587)
-- Jun Chen
+
+Jun Chen
 
 - 
