@@ -2,7 +2,7 @@
 title: "RU-net: A Residual U-net for Automatic Interplanetary Coronal Mass Ejection Detection"
 collection: publications
 category: manuscript
-permalink: 'https://doi.org/10.3847/1538-4365/ac4587'
+permalink: '/publication/2022-3-journal-1.md'
 citation: 'Jun Chen, Hao Deng, Shuxin Li, Weifu Li, Hong Chen, Yanhong Chen, Bingxian Luo. <i>The Astrophysical Journal Supplement Series</i>.'
 ---
 
