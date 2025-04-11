@@ -55,8 +55,9 @@ Journals
 
 Academic Service
 ======
-- **Reviewer:** ICLR, NeurIPS, AISTATS
+- **Reviewer:** ICLR, ICML, NeurIPS, IJCAI, AISTATS
 
 Honors
 ======
+- 2024 Chinese Government Scholarship to Study Abroad
 - 2023 National Scholarship at Huazhong Agricultural University
