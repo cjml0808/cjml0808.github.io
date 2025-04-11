@@ -20,7 +20,6 @@ The paper "Error Analysis Affected by Heavy-Tailed Gradients for Non-Convex Pair
 📄 Publications 📄
 ======
 Conferences
--
 - Error Analysis Affected by Heavy-Tailed Gradients for Non-Convex Pairwise Stochastic Gradient Descent
 <br>**Jun Chen**, Hong Chen*, Bin Gu, Guodong Liu, Yingjie Wang, Weifu Li*. AAAI, 2025.
 
