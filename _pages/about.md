@@ -15,12 +15,15 @@ My research interests lie in the theory and application of machine learning, par
 
 🎊 News 🎊
 ======
-The paper "How Does Black-Box Impact the Learning Guarantee of Stochastic Compositional Optimization?" was accepted as a poster of NeurIPS 2024.
+The paper "Error Analysis Affected by Heavy-Tailed Gradients for Non-Convex Pairwise Stochastic Gradient Descent" was accepted as a poster of AAAI 2025.
 
 📄 Publications 📄
 ======
 Conferences
 -
+- Error Analysis Affected by Heavy-Tailed Gradients for Non-Convex Pairwise Stochastic Gradient Descent
+<br>**Jun Chen**, Hong Chen*, Bin Gu, Guodong Liu, Yingjie Wang, Weifu Li*. AAAI, 2025.
+
 - How Does Black-Box Impact the Learning Guarantee of Stochastic Compositional Optimization? [Paper](https://neurips.cc/virtual/2024/poster/96688)
 <br>**Jun Chen**, Hong Chen*, Bin Gu. NeurIPS, 2024.
 
