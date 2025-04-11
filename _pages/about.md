@@ -39,10 +39,10 @@ Conferences
 Journals
 -
 - Predicting and Visualizing Citrus Color Transformation Using A Deep Mask-Guided Generative Network [Paper](https://spj.science.org/doi/10.34133/plantphenomics.0057)
-<br>Zehan Bao, Weifu Li, **Jun Chen**, Hong Chen, Vijay John, Chi Xiao*, Yaohui Chen*. *Plant Phenomics*, 2023.
+<br>Zehan Bao#, Weifu Li#, **Jun Chen**, Hong Chen, Vijay John, Chi Xiao*, Yaohui Chen*. *Plant Phenomics*, 2023.
 
 - Improving Human Intuition for Vision-Based Freshness Prediction of Citrus Reticulata Blanco Using Machine Learning [Paper](https://www.sciencedirect.com/science/article/pii/S0304423823004715)
-<br>Yonghua Yu, Hao Deng, **Jun Chen**, Yunjiang Cheng, Rangwei Xu, Shanjun Li*, Yaohui Chen*. *Scientia Horticulturae*, 2023.
+<br>Yonghua Yu#, Hao Deng#, **Jun Chen**, Yunjiang Cheng, Rangwei Xu, Shanjun Li*, Yaohui Chen*. *Scientia Horticulturae*, 2023.
 
 - Two-stage Hierarchical Framework for Solar Flare Prediction [Paper](https://iopscience.iop.org/article/10.3847/1538-4365/acebbe/meta)
 <br>Hao Deng, Yuting Zhong, Hong Chen*, **Jun Chen**, Jingjing Wang, Yanhong Chen, Bingxian Luo. *The Astrophysical Journal Supplement Series*, 2023.
