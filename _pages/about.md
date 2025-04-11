@@ -21,7 +21,7 @@ The paper "Error Analysis Affected by Heavy-Tailed Gradients for Non-Convex Pair
 ======
 Conferences
 -
-- Error Analysis Affected by Heavy-Tailed Gradients for Non-Convex Pairwise Stochastic Gradient Descent
+- Error Analysis Affected by Heavy-Tailed Gradients for Non-Convex Pairwise Stochastic Gradient Descent [Paper](https://cjml0808.github.io)
 <br>**Jun Chen**, Hong Chen*, Bin Gu, Guodong Liu, Yingjie Wang, Weifu Li*. AAAI, 2025.
 
 - How Does Black-Box Impact the Learning Guarantee of Stochastic Compositional Optimization? [Paper](https://neurips.cc/virtual/2024/poster/96688)
