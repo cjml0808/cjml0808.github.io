@@ -50,11 +50,11 @@ Journals
 - Two-Stage Solar Flare Forecasting Based on Convolutional Neural Networks [Paper](https://spj.science.org/doi/10.34133/2022/9761567)
 <br>**Jun Chen**, Weifu Li, Shuxin Li, Hong Chen*, Xuebin Zhao, Jiangtao Peng, Yanhong Chen, Hao Deng. *Space: Science & Technology*, 2022.
 
-- 基于深度学习的太阳黑子Wilson山磁类型识别方法 [论文](https://www.cjss.ac.cn/cn/article/doi/10.11728/cjss2022.03.210107004)
-<br>李书馨, 赵学斌, **陈君**, 李伟夫, 陈洪, 陈艳红, 崔延美, 袁天娇. *空间科学学报*, 2022.
-
 - RU-net: A Residual U-net for Automatic Interplanetary Coronal Mass Ejection Detection [Paper](https://doi.org/10.3847/1538-4365/ac4587)
 <br>**Jun Chen**, Hao Deng*, Shuxin Li, Weifu Li, Hong Chen*, Yanhong Chen, Bingxian Luo. *The Astrophysical Journal Supplement Series*, 2022.
+
+- 基于深度学习的太阳黑子Wilson山磁类型识别方法 [论文](https://www.cjss.ac.cn/cn/article/doi/10.11728/cjss2022.03.210107004)
+<br>李书馨, 赵学斌, **陈君**, 李伟夫, 陈洪, 陈艳红, 崔延美, 袁天娇. *空间科学学报*, 2022.
 
 Academic Service
 ======
