@@ -15,13 +15,15 @@ My research interests lie in the theory and application of machine learning, par
 
 🎊 News 🎊
 ======
-The paper "Error Analysis Affected by Heavy-Tailed Gradients for Non-Convex Pairwise Stochastic Gradient Descent" was accepted as a poster of AAAI 2025.
+The paper "How does Labeling Error Impact Contrastive Learning? A Perspective from Data Dimensionality Reduction" was accepted as a poster of ICML 2025.
 
 📄 Publications 📄
 ======
 Conferences
 -
-- Error Analysis Affected by Heavy-Tailed Gradients for Non-Convex Pairwise Stochastic Gradient Descent [Paper](https://cjml0808.github.io)
+- How does Labeling Error Impact Contrastive Learning? A Perspective from Data Dimensionality Reduction [Paper](https://cjml0808.github.io)<br>**Jun Chen**, Hong Chen*, Yonghua Yu, Yiming Ying. ICML, 2025.
+
+- Error Analysis Affected by Heavy-Tailed Gradients for Non-Convex Pairwise Stochastic Gradient Descent [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33735#:~:text=This%20paper%20considers%20the%20impact%20of%20the%20heavy-tailed,SGD%20by%20investigating%20its%20generalization%20and%20optimization%20jointly.)
 <br>**Jun Chen**, Hong Chen*, Bin Gu, Guodong Liu, Yingjie Wang, Weifu Li*. AAAI, 2025.
 
 - How Does Black-Box Impact the Learning Guarantee of Stochastic Compositional Optimization? [Paper](https://neurips.cc/virtual/2024/poster/96688)
