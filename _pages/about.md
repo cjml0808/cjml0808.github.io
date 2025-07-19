@@ -17,7 +17,7 @@ My research interests lie in the theory and application of machine learning, par
 ======
 The paper "How does Labeling Error Impact Contrastive Learning? A Perspective from Data Dimensionality Reduction" was accepted as a poster of ICML 2025.
 
-📄 Publications 📄
+📄 Preprints 📄
 ======
 
 - Clustering-Guided Multi-Layer Contrastive Representation Learning for Citrus Disease Classification [Paper](https://arxiv.org/pdf/2507.11171)<br>**Jun Chen**, Yonghua Yu, Weifu Li, Yaohui Chen, Hong Chen*. 2025.
