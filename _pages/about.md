@@ -20,9 +20,14 @@ The paper "How does Labeling Error Impact Contrastive Learning? A Perspective fr
 📄 Publications 📄
 ======
 
+- Clustering-Guided Multi-Layer Contrastive Representation Learning for Citrus Disease Classification [Paper](https://arxiv.org/pdf/2507.11171)<br>**Jun Chen**, Yonghua Yu, Weifu Li, Yaohui Chen, Hong Chen*. 2025.
+
+📄 Publications 📄
+======
+
 Conferences
 -
-- How does Labeling Error Impact Contrastive Learning? A Perspective from Data Dimensionality Reduction [Paper](https://cjml0808.github.io)<br>**Jun Chen**, Hong Chen*, Yonghua Yu, Yiming Ying. ICML, 2025.
+- How does Labeling Error Impact Contrastive Learning? A Perspective from Data Dimensionality Reduction [Paper](https://arxiv.org/pdf/2507.11161)<br>**Jun Chen**, Hong Chen*, Yonghua Yu, Yiming Ying. ICML, 2025.
 
 - Error Analysis Affected by Heavy-Tailed Gradients for Non-Convex Pairwise Stochastic Gradient Descent [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33735#:~:text=This%20paper%20considers%20the%20impact%20of%20the%20heavy-tailed,SGD%20by%20investigating%20its%20generalization%20and%20optimization%20jointly.)
 <br>**Jun Chen**, Hong Chen*, Bin Gu, Guodong Liu, Yingjie Wang, Weifu Li*. AAAI, 2025.
