@@ -66,7 +66,7 @@ Journals
 
 Academic Service
 ======
-- **Reviewer:** ICLR, ICML, NeurIPS, IJCAI, AISTATS
+- **Reviewer:** ICLR, ICML, NeurIPS, AISTATS, AAAI, IJCAI
 
 Honors
 ======
