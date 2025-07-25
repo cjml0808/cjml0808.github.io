@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [College of Informatics, Huazhong Agricultural University](https://coi.hzau.edu.cn/) (2022-), advised by Professor [Hong Chen](https://chenhongml.github.io/). I obtained my M.S. degree at the College of Science, Huazhong Agricultural University (2020-2022) and my B.S. degree at the School of Mathmatics, Taiyuan University of Technology (2016-2020). I previously visited the Gaoling School of Artificial Intelligence, Renmin University of China, advised by Professor [Yong Liu](https://liuyonggsai.github.io/chinese/).
+I am a PhD student at the [College of Informatics, Huazhong Agricultural University](https://coi.hzau.edu.cn/) (2022.9-), advised by Professor [Hong Chen](https://chenhongml.github.io/). I obtained my M.S. degree at the College of Science, Huazhong Agricultural University (2020.9-2022.6) and my B.S. degree at the School of Mathmatics, Taiyuan University of Technology (2016.9-2020.6). I previously visited the Gaoling School of Artificial Intelligence, Renmin University of China, advised by Professor [Yong Liu](https://liuyonggsai.github.io/chinese/).
 
 💻 Research Interests 💻
 ======
