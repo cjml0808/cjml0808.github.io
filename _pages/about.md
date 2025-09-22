@@ -25,7 +25,7 @@ The paper "How does Labeling Error Impact Contrastive Learning? A Perspective fr
 📄 Publications 📄
 ======
 
-Conferences
+**Conferences**
 
 - How does Labeling Error Impact Contrastive Learning? A Perspective from Data Dimensionality Reduction [Paper](https://arxiv.org/pdf/2507.11161)<br>**Jun Chen**, Hong Chen\*, Yonghua Yu, Yiming Ying. ICML, 2025.
 
@@ -44,7 +44,7 @@ Conferences
 - On the Stability and Generalization of Triplet Learning [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25859)
 <br>**Jun Chen**, Hong Chen\*, Xue Jiang, Bin Gu, Weifu Li, Tieliang Gong, Feng Zheng. AAAI, 2023.
 
-Journals
+**Journals**
 
 - Predicting and Visualizing Citrus Color Transformation Using A Deep Mask-Guided Generative Network [Paper](https://spj.science.org/doi/10.34133/plantphenomics.0057)
 <br>Zehan Bao#, Weifu Li#, **Jun Chen**, Hong Chen, Vijay John, Chi Xiao\*, Yaohui Chen\*. *Plant Phenomics*, 2023.
