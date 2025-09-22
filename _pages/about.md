@@ -26,7 +26,7 @@ The paper "How does Labeling Error Impact Contrastive Learning? A Perspective fr
 ======
 
 Conferences
--
+
 - How does Labeling Error Impact Contrastive Learning? A Perspective from Data Dimensionality Reduction [Paper](https://arxiv.org/pdf/2507.11161)<br>**Jun Chen**, Hong Chen\*, Yonghua Yu, Yiming Ying. ICML, 2025.
 
 - Error Analysis Affected by Heavy-Tailed Gradients for Non-Convex Pairwise Stochastic Gradient Descent [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33735#:~:text=This%20paper%20considers%20the%20impact%20of%20the%20heavy-tailed,SGD%20by%20investigating%20its%20generalization%20and%20optimization%20jointly.)
@@ -45,7 +45,7 @@ Conferences
 <br>**Jun Chen**, Hong Chen\*, Xue Jiang, Bin Gu, Weifu Li, Tieliang Gong, Feng Zheng. AAAI, 2023.
 
 Journals
--
+
 - Predicting and Visualizing Citrus Color Transformation Using A Deep Mask-Guided Generative Network [Paper](https://spj.science.org/doi/10.34133/plantphenomics.0057)
 <br>Zehan Bao#, Weifu Li#, **Jun Chen**, Hong Chen, Vijay John, Chi Xiao\*, Yaohui Chen\*. *Plant Phenomics*, 2023.
 
