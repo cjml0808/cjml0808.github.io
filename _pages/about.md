@@ -68,7 +68,8 @@ Academic Service
 
 Honors
 ======
+- 2025 National Scholarship for Doctoral Students
 - 2024 Chinese Government Scholarship to Study Abroad
-- 2023 National Scholarship at Huazhong Agricultural University
+- 2023 National Scholarship for Doctoral Students
 
 ![](https://komarev.com/ghpvc/?username=cjml0808)
