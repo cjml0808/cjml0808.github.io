@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [College of Informatics, Huazhong Agricultural University](https://coi.hzau.edu.cn/) (2022.9-), advised by Professor [Hong Chen](https://chenhongml.github.io/). I obtained my M.S. degree at the College of Science, Huazhong Agricultural University (2020.9-2022.6) and my B.S. degree at the School of Mathmatics, Taiyuan University of Technology (2016.9-2020.6). I previously visited the Gaoling School of Artificial Intelligence, Renmin University of China, advised by Professor [Yong Liu](https://liuyonggsai.github.io/chinese/). I am currently jointly advised by Professor [Yiming Ying](https://www.sydney.edu.au/science/about/our-people/academic-staff/yiming-ying.html), University of Sydney, for a joint PhD program of Chinese Government Scholarship to Study Abroad.
+I am a PhD student at the [College of Informatics, Huazhong Agricultural University](https://coi.hzau.edu.cn/) (2022.9-), advised by Professor [Hong Chen](https://chenhongml.github.io/). I obtained my M.S. degree at the College of Science, Huazhong Agricultural University (2020.9-2022.6) and my B.S. degree at the School of Mathmatics, Taiyuan University of Technology (2016.9-2020.6). I previously visited the Gaoling School of Artificial Intelligence, Renmin University of China, advised by Professor [Yong Liu](https://liuyonggsai.github.io/chinese/) (Oct. 2023 - Mar. 2024). Subsequently, I was jointly advised by Professor [Yiming Ying](https://www.sydney.edu.au/science/about/our-people/academic-staff/yiming-ying.html), University of Sydney, for a joint PhD program of Chinese Government Scholarship to Study Abroad (Jul. 2024 - Dec. 2025). Currently, I am working as Postdoctoral Fellow at City University of Hong Kong, advised by Professor [Ziye Ma](https://gavenma.github.io).
 
 💻 Research Interests 💻
 ======
-My research interests lie in the theory and application of machine learning, particularly in statistical machine learning theory, unsupervised learning, federated learning, and their applications in agriculture and space physics. If you want to have a chat, please always feel free to contact me through Email!
+My research interests lie in the theory and application of machine learning, particularly in statistical machine learning theory, unsupervised learning, and agent learning. If you want to have a chat, please always feel free to contact me through Email!
 
 🎊 News 🎊
 ======
@@ -64,7 +64,12 @@ The paper "How does Labeling Error Impact Contrastive Learning? A Perspective fr
 
 Academic Service
 ======
-- **Reviewer:** ICLR, ICML, NeurIPS, AISTATS, AAAI, IJCAI
+
+**Conferences:**
+- **Reviewer:** ICLR (2024-2027), ICML (2024-2026), NeurIPS (2024-2026), AISTATS 2026, AAAI (2024-2027)
+
+**Journals:**
+- **Reviewer:** JMLR, TNNLS, TMLR
 
 Honors
 ======
